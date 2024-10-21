@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.cards{
+    width:20%;
+    
+    text-align: center;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+img{
+    height: 100px;
+    width: 150px;
+}
